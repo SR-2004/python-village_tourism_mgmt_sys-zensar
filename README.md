@@ -12,7 +12,7 @@ The following file contains the following project related details :-
 
 2 - village_tourism management system.py :- complete python based restful api.
 
-3 - vlg-do_get.py :- contains do_get method and used to fetch data from server our database.
+3 - vlg-do_get.py :- contains do_get method and used to fetch data from server means our database.
 
 4 - vlg-do_post.py :- contains do_post method and used to create new  data from server or display booking information in our context.
 
@@ -24,11 +24,5 @@ Note : for running this project in efficient manner and correctly need to have a
 
 Some comments are provided in main file 'village_tourism management system.py ' check it and execute accordingly .
 
-For each specifi operation u can refer seprate files too as provided in repository.
+For each specific operation you can refer seprate files too as provided in repository.
 
-
-
-
-
-
-erver our database
